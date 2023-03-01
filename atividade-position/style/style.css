@@ -81,7 +81,7 @@ section .ajuda-box {
 }
 
 section .ajuda-box h2 {
-    margin-top: 50px;
+    margin-top: 120px;
     text-transform: uppercase;
     font-family: 'Titillium Web', sans-serif;
     font-weight: 600;
@@ -94,7 +94,6 @@ section .ajuda-box p {
 }
 
 section .conhecimento-profundo {
-    
     display: flex;
     flex-direction: column;
     justify-content: center;
